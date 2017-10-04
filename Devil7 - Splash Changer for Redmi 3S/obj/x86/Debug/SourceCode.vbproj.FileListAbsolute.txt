@@ -1,0 +1,38 @@
+H:\Projects\Windows\Devil7 - Splash Changer for Redmi 3S\Devil7 - Splash Changer for Redmi 3S\bin\Debug\Devil7 - Splash Changer for Redmi 3S.exe.config
+H:\Projects\Windows\Devil7 - Splash Changer for Redmi 3S\Devil7 - Splash Changer for Redmi 3S\obj\x86\Debug\Devil7 - Splash Changer for Redmi 3S.exe
+H:\Projects\Windows\Devil7 - Splash Changer for Redmi 3S\Devil7 - Splash Changer for Redmi 3S\obj\x86\Debug\Devil7 - Splash Changer for Redmi 3S.xml
+H:\Projects\Windows\Devil7 - Splash Changer for Redmi 3S\Devil7 - Splash Changer for Redmi 3S\obj\x86\Debug\Devil7 - Splash Changer for Redmi 3S.pdb
+H:\Projects\Windows\Devil7 - Splash Changer for Redmi 3S\Devil7 - Splash Changer for Redmi 3S\obj\x86\Debug\D7SCH_LAND.frm_Main.resources
+H:\Projects\Windows\Devil7 - Splash Changer for Redmi 3S\Devil7 - Splash Changer for Redmi 3S\obj\x86\Debug\D7SCH_LAND.ImageProp.resources
+H:\Projects\Windows\Devil7 - Splash Changer for Redmi 3S\Devil7 - Splash Changer for Redmi 3S\obj\x86\Debug\D7SCH_LAND.Resources.resources
+H:\Projects\Windows\Devil7 - Splash Changer for Redmi 3S\Devil7 - Splash Changer for Redmi 3S\obj\x86\Debug\SourceCode.vbproj.GenerateResource.Cache
+H:\Projects\Windows\Devil7 - Splash Changer for Redmi 3S\Devil7 - Splash Changer for Redmi 3S\bin\Debug\Devil7 - Splash Changer for Redmi 3S.exe
+H:\Projects\Windows\Devil7 - Splash Changer for Redmi 3S\Devil7 - Splash Changer for Redmi 3S\bin\Debug\Devil7 - Splash Changer for Redmi 3S.pdb
+H:\Projects\Windows\Devil7 - Splash Changer for Redmi 3S\Devil7 - Splash Changer for Redmi 3S\bin\Debug\Devil7 - Splash Changer for Redmi 3S.xml
+H:\Projects\Windows\Devil7 - Splash Changer for Redmi 3S\Devil7 - Splash Changer for Redmi 3S\obj\x86\Debug\Devil7 - Splash Changer for Redmi 3S.exe.licenses
+H:\Projects\Windows\Devil7 - Splash Changer for Redmi 3S\Devil7 - Splash Changer for Redmi 3S\obj\x86\Debug\D7SCH_LAND.frm_Device.resources
+H:\Projects\Windows\Devil7 - Splash Changer for Redmi 3S\Devil7 - Splash Changer for Redmi 3S\bin\Debug\adb\adb.exe
+H:\Projects\Windows\Devil7 - Splash Changer for Redmi 3S\Devil7 - Splash Changer for Redmi 3S\bin\Debug\adb\AdbWinApi.dll
+H:\Projects\Windows\Devil7 - Splash Changer for Redmi 3S\Devil7 - Splash Changer for Redmi 3S\bin\Debug\adb\AdbWinUsbApi.dll
+H:\Projects\Windows\Devil7 - Splash Changer for Redmi 3S\Devil7 - Splash Changer for Redmi 3S\bin\Debug\adb\fastboot.exe
+F:\Projects\Windows\Devil7 - Splash Changer for Redmi 3S\Devil7 - Splash Changer for Redmi 3S\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Projects\Windows\Devil7 - Splash Changer for Redmi 3S\Devil7 - Splash Changer for Redmi 3S\obj\x86\Debug\D7SCH_LAND.frm_About.resources
+F:\Projects\Windows\Devil7 - Splash Changer for Redmi 3S\Devil7 - Splash Changer for Redmi 3S\obj\x86\Debug\D7SCH_LAND.frm_Device.resources
+F:\Projects\Windows\Devil7 - Splash Changer for Redmi 3S\Devil7 - Splash Changer for Redmi 3S\obj\x86\Debug\D7SCH_LAND.frm_Main.resources
+F:\Projects\Windows\Devil7 - Splash Changer for Redmi 3S\Devil7 - Splash Changer for Redmi 3S\obj\x86\Debug\D7SCH_LAND.ImageProp.resources
+F:\Projects\Windows\Devil7 - Splash Changer for Redmi 3S\Devil7 - Splash Changer for Redmi 3S\obj\x86\Debug\D7SCH_LAND.Resources.resources
+F:\Projects\Windows\Devil7 - Splash Changer for Redmi 3S\Devil7 - Splash Changer for Redmi 3S\obj\x86\Debug\D7SCH_LAND.Splash.resources
+F:\Projects\Windows\Devil7 - Splash Changer for Redmi 3S\Devil7 - Splash Changer for Redmi 3S\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Projects\Windows\Devil7 - Splash Changer for Redmi 3S\Devil7 - Splash Changer for Redmi 3S\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Projects\Windows\Devil7 - Splash Changer for Redmi 3S\Devil7 - Splash Changer for Redmi 3S\bin\Debug\Devil7 - Splash Changer for Redmi.exe.config
+F:\Projects\Windows\Devil7 - Splash Changer for Redmi 3S\Devil7 - Splash Changer for Redmi 3S\bin\Debug\Devil7 - Splash Changer for Redmi.exe
+F:\Projects\Windows\Devil7 - Splash Changer for Redmi 3S\Devil7 - Splash Changer for Redmi 3S\bin\Debug\Devil7 - Splash Changer for Redmi.pdb
+F:\Projects\Windows\Devil7 - Splash Changer for Redmi 3S\Devil7 - Splash Changer for Redmi 3S\bin\Debug\Devil7 - Splash Changer for Redmi.xml
+F:\Projects\Windows\Devil7 - Splash Changer for Redmi 3S\Devil7 - Splash Changer for Redmi 3S\obj\x86\Debug\Devil7 - Splash Changer for Redmi.exe.licenses
+F:\Projects\Windows\Devil7 - Splash Changer for Redmi 3S\Devil7 - Splash Changer for Redmi 3S\obj\x86\Debug\Devil7 - Splash Changer for Redmi.exe
+F:\Projects\Windows\Devil7 - Splash Changer for Redmi 3S\Devil7 - Splash Changer for Redmi 3S\obj\x86\Debug\Devil7 - Splash Changer for Redmi.xml
+F:\Projects\Windows\Devil7 - Splash Changer for Redmi 3S\Devil7 - Splash Changer for Redmi 3S\obj\x86\Debug\Devil7 - Splash Changer for Redmi.pdb
+H:\Projects\Windows\Devil7 - Splash Changer for Redmi 3S\Devil7 - Splash Changer for Redmi 3S\bin\Debug\Devil7 - Splash Changer for Redmi.exe.config
+H:\Projects\Windows\Devil7 - Splash Changer for Redmi 3S\Devil7 - Splash Changer for Redmi 3S\obj\x86\Debug\Devil7 - Splash Changer for Redmi.exe
+H:\Projects\Windows\Devil7 - Splash Changer for Redmi 3S\Devil7 - Splash Changer for Redmi 3S\obj\x86\Debug\Devil7 - Splash Changer for Redmi.xml
+H:\Projects\Windows\Devil7 - Splash Changer for Redmi 3S\Devil7 - Splash Changer for Redmi 3S\obj\x86\Debug\Devil7 - Splash Changer for Redmi.pdb
